@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Tamas Koncz</title>
+    <link>/post/</link>
+    <description>Recent content in Post on Tamas Koncz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Mar 2018 22:21:33 +0200</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018-03-25-Hello-World-Rmd</title>
+      <link>/post/2018-03-25-hello-world-rmd/</link>
+      <pubDate>Sun, 25 Mar 2018 22:21:33 +0200</pubDate>
+      
+      <guid>/post/2018-03-25-hello-world-rmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello-world.Rmd</title>
+      <link>/post/hello-world-rmd/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world-rmd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
