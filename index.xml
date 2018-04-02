@@ -6,10 +6,22 @@
     <description>Recent content on Tamas&#39; blog for sports analytics and more data topics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TBBT (Tidy)Text analysis 2 - Sentiments across genders</title>
+      <link>/blog/tbbt-genders/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tbbt-genders/</guid>
+      <description>My inspiration to write this post was Julia Silge’s “She giggles, he gallops” on pudding.cool.
+Julia examines 2,000 film scripts, to uncover certain “gender bias” - notably, she compared what are the most frequent words following “he” and “she” in the scripts.
+I’m going to apply the same idea to the subtitle data of the TV series ‘The Big Bang Theory’.
+Just before we dive in - this post is the second in my “TBBT (Tidy)Text analysis” mini-series, if interested, you can find the first one here, in which I look at the relation between average IMDB scores of episodes and dominating character “mentions”.</description>
+    </item>
     
     <item>
       <title>TBBT (Tidy)Text analysis 1 - IMDB scores and character mentions</title>
