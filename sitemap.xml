@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2018-10-23T06:42:21-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/russell-westbrook-and-the-value-of-a-triple-double/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -20,11 +25,6 @@
   <url>
     <loc>/blog/tbbt-imdb-score-regression/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
