@@ -6,10 +6,30 @@
     <description>Recent content on Tamas&#39; blog for sports analytics and more data topics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Russell Westbrook And The Value of a Triple-Double</title>
+      <link>/blog/russell-westbrook-and-the-value-of-a-triple-double/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/russell-westbrook-and-the-value-of-a-triple-double/</guid>
+      <description>Russell Westbrook is unquestionably one of the most fun players to watch in the NBA.
+Personally, he’s my favorite. His energy and raw talent can light up the court and fans around the World, with spectacular moves like this:
+Russ is also known to frequently produce triple-doubles, a measure of his superhuman ability to perform in multiple areas of the game. Not everyone is into these triple-doubles though.</description>
+    </item>
+    
+    <item>
+      <title>Was this the closest race for the NBA Playoffs ever?</title>
+      <link>/blog/nba-playoff-race-2018/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/nba-playoff-race-2018/</guid>
+      <description>This question probably got decided the second the Denver Nuggets took the Timberwolves to overtime for the 8th and last playoff-worthy position in West, on the last day of the regular season… but that should not stop us from looking back at what has transpired at finish line before the Playoffs with the help of some data.Teams have moved up and down the standings like never beforeTeams have switched positions a lot during the run-up of this season’s finale… and I wanted to see how abnormal this was.</description>
+    </item>
     
     <item>
       <title>TBBT (Tidy)Text analysis 2 - Sentiments across genders</title>

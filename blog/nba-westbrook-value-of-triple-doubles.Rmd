@@ -27,14 +27,14 @@ figures_folder_path <- "/img"
 
 **Russell Westbrook is unquestionably one of the most fun players to watch in the NBA.**  
 
-Personally, he's my favorite. His energy and raw talent can light up the court and fans around the World, with spectecular moves like this:
+Personally, he's my favorite. His energy and raw talent can light up the court and fans around the World, with spectacular moves like this:
 
 ```{r, fig.align = 'center'}
 embed_youtube(id = "uFcrvPR4d50", width = 750, height = 400) %>%
     div(align = "center")
 ```
 
-Russ is also known to frequently produce triple-doubles, a measure of his superhuman ability to perform in multiple areas of the game. Not everyone is into these triple-doubles though. I'm looking at you, [Colin](https://www.youtube.com/watch?v=ZrvyRArDo54) - sincerely, a huge fan (just turn down the hate on Russ, please!). Their value is questioned, sometimes blaming it on the increased pace of the NBA in recent years, or simply saying Russ is just padding his stats to record triple-doubles, sneaking in a little extra rebound here and there, by the help of his teammates.  
+Russ is also known to frequently produce triple-doubles, a measure of his superhuman ability to perform in multiple areas of the game. Not everyone is into these triple-doubles though. I'm looking at you, [Colin](https://www.youtube.com/watch?v=PP9A7a9dX_I) - sincerely, a huge fan (just turn down the hate on Russ, please!). Their value is questioned, sometimes blaming it on the increased pace of the NBA in recent years, or simply saying Russ is just padding his stats to record triple-doubles, sneaking in a little extra rebound here and there, by the help of his teammates.  
   
 
 <center>![](https://media.giphy.com/media/xWq7g9vHzLkarVmR15/giphy.gif)  </center>
