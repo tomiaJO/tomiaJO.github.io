@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tamas&#39; blog for sports analytics and more data topics</title>
+    <title>Tamas&#39; blog for sports analytics and other data topics</title>
     <link>/</link>
-    <description>Recent content on Tamas&#39; blog for sports analytics and more data topics</description>
+    <description>Recent content on Tamas&#39; blog for sports analytics and other data topics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
@@ -60,9 +60,8 @@ While originally I set my sight on some deep topics, I ended up with something l
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
       <guid>/about/colophon/</guid>
-      <description>The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
-The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.
-If you find errors, please let me know.</description>
+      <description>The site is built with Hugo, a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
+The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
     </item>
     
   </channel>
